@@ -1,2 +1,3 @@
 # terraform
-My Terraform Learning 
+Chirag Nayyar Terraform Learning and Samples
+
