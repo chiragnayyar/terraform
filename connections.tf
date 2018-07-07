@@ -1,7 +1,7 @@
 provider "google" {
   credentials = "${file("../account.json")}"
-  project     = "chiragnayyar99"
-  region      = "us-west1"
+  project     = "terraform-test"
+  region      = "ap-south1"
 }
 
 provider "aws" {
